@@ -1,0 +1,15 @@
+D:\Escritorio\Triki\Triki\bin\Debug\Triki.exe.config
+D:\Escritorio\Triki\Triki\bin\Debug\Triki.exe
+D:\Escritorio\Triki\Triki\bin\Debug\Triki.pdb
+D:\Escritorio\Triki\Triki\obj\Debug\Views\Inicio.baml
+D:\Escritorio\Triki\Triki\obj\Debug\Views\Inicio.g.cs
+D:\Escritorio\Triki\Triki\obj\Debug\App.g.cs
+D:\Escritorio\Triki\Triki\obj\Debug\Triki_MarkupCompile.cache
+D:\Escritorio\Triki\Triki\obj\Debug\Triki.g.resources
+D:\Escritorio\Triki\Triki\obj\Debug\Triki.Properties.Resources.resources
+D:\Escritorio\Triki\Triki\obj\Debug\Triki.csproj.GenerateResource.cache
+D:\Escritorio\Triki\Triki\obj\Debug\Triki.exe
+D:\Escritorio\Triki\Triki\obj\Debug\Triki.pdb
+D:\Escritorio\Triki\Triki\obj\Debug\App.baml
+D:\Escritorio\Triki\Triki\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Escritorio\Triki\Triki\obj\Debug\Triki_MarkupCompile.lref
